@@ -1,0 +1,6 @@
+*.o
+*.cluster_centres
+*.membership
+*_main
+profiles
+*.out
